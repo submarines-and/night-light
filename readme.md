@@ -1,6 +1,24 @@
 # Night light
+I wanted some motion activated lights for when I fetch a tool late at night and I don't want to turn on the lights in my office. Ikea sells led-strips that can be controlled through trådfri, but I figured I could make it myself instead to save some money.
 
-Motion activated night light. In my case it starts an LED fillament, but that can of course be substituted.
+In my case, an LED filament is used as a light source, but that can of course be substituted.
+
+## Parts
+| Part    | Link |
+| -------- | ------- |
+| ATTiny85 | https://www.electrokit.com/en/attiny85-20pu-dip-8-8-bit-mcu-flash-8k     |
+| LED filament | https://www.electrokit.com/en/flexibelt-led-filament-3v-300mm-varmvit |
+| Motion sensor | https://www.electrokit.com/en/rorelsedetektor-pir-mini-sr602 |
+| Photo resistor | https://www.electrokit.com/en/fotomotstand-cds-4-7-kohm |
+| 10k Ohm resistor  | https://www.electrokit.com/en/motstand-2w-10kohm-510k    |
+| 82 Ohm Resistor    | https://www.electrokit.com/en/motstand-1w-582ohm-82r    |
+| 10uF Capacitor | https://www.electrokit.com/en/el.lyt-100uf-16v-105c-6.3x5mm |
+| On/Off switch | https://www.electrokit.com/en/skjutomkopplare-1-pol-on-on-pcb-2.54mm-2 |
+| Battery holder 2032 | https://www.electrokit.com/en/batterihallare-cr2016/2025/2032-plast |
+| Experiment card for soldering | https://www.electrokit.com/en/experimentkort-70x50mm-pertinax |
+
+
+![Lights](./img/lights.jpeg)
 
 ![Diagram](/img/diagram.jpeg)
 
