@@ -1,5 +1,5 @@
 # Night light
-I wanted some motion activated lights for when I fetch a tool late at night and I don't want to turn on the lights in my office. Ikea sells led-strips that can be controlled through trådfri, but I figured I could make it myself instead to save some money.
+I wanted some motion activated lights for when I fetch a tool late at night and I don't want to turn on the lights in my office. Ikea sells led-strips that can be controlled through trådfri, but I figured I could make it myself instead as a fun project.
 
 In my case, an LED filament is used as a light source, but that can of course be substituted.
 
